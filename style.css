@@ -6606,7 +6606,52 @@ h4 {
 }
 
 @media screen and (max-width: 600px) {
+/* .text-a{
+    margin-top: -3480px;
+}
+    .title-salario{
+    margin-top: -1130px;
+}
+    .azul{
+        opacity: 0;
+    }
 
+    .card-aprender{
+        margin-top: -249px;
+    }
+    
+    .contact-us{
+        margin-top: 474px;
+    }
+
+    .display-content{
+        padding: 0;
+    }
+   
+.impacto-social{
+    width: 100%;
+    font-size: 34px;
+}
+
+.impact1{
+    opacity: 0;
+    
+}
+
+.objetivo{
+    width: 100px;
+    font-size: 23px;
+    margin: 3px;
+}
+
+.btn-impact{
+    margin-top: 36px;
+   
+}
+
+.impact-btn{
+    width: 80%;
+} */
 
     .logo {
         margin-top: -150px;
