@@ -1,9 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Barlow:wght@500;700&family=Montserrat:wght@400;500;600;700;800&display=swap');
+
 @media screen and (max-width: 600px) {
     body {
         width: 100%;
     }
-    .educadores{
+
+    .educadores {
         min-width: 30%;
         max-width: 30%;
         display: flex;
@@ -13,51 +15,64 @@
         font-size: 39px;
         padding-bottom: 10%;
     }
-.impacto-social{
-    
-    min-width: 90%;
+
+    .impacto-social {
+
+        min-width: 90%;
         max-width: 90%;
         display: flex;
-}
-.objetivo{
-    min-width: 80%;
+    }
+
+    .objetivo {
+        min-width: 80%;
         max-width: 30%;
         display: flex;
-}
-.impact{
-    height: 100%;
-}
-.impact1{
-    width: 100%;
-}
-.containerInfo{
-    height: 100%;
-}
-.itens-one{
-    opacity: 0%;
-}
-.info{
-    padding-top: 10%;
-    padding-left: -100%;
-    left: 100%;
-}
-.containerInfo{
-    display: flex;
-    height: 100%;
-}
-.logo{
-   
-    padding-top: 100%;
-}
-.btn-impact{
-    padding-top: 20%;
-}
+    }
+
+    .impact {
+        height: 100%;
+    }
+
+    .impact1 {
+        width: 100%;
+    }
+
+    .containerInfo {
+        height: 100%;
+    }
+
+    .itens-one {
+        opacity: 0%;
+    }
+
+    .info {
+        padding-top: 10%;
+        padding-left: -100%;
+        left: 100%;
+    }
+
+    .containerInfo {
+        display: flex;
+        height: 100%;
+    }
+
+    .logo {
+
+        padding-top: 100%;
+    }
+
+    .btn-impact {
+        padding-top: 20%;
+    }
+
     .text-typography {
         font-size: 1px;
     }
-.icons{
-    opacity: 0%;
-}
+
+    .icons {
+        opacity: 0%;
+    }
+
     .subtext {
 
         min-width: 30%;
@@ -112,12 +127,14 @@
 
     .textCard {
         padding: 1%;
-        
+
         left: 2%;
     }
-.text-future{
-    padding: 2%;
-}
+
+    .text-future {
+        padding: 2%;
+    }
+
     .subtext-card {
         padding: 2%;
         max-width: 80%;
@@ -133,23 +150,25 @@
         display: flex;
         max-width: 400px;
         min-width: 300%;
-       padding: 10%;
+        padding: 10%;
     }
-.textDev{
 
-    padding: 3%;
-    
-}
+    .textDev {
+
+        padding: 3%;
+
+    }
+
     .dev-two {
         width: 30%;
     }
 
     .cardd {
         max-width: 70%;
-       padding-bottom: 45%;
-       margin-bottom: 10%;
-      
-      
+        padding-bottom: 45%;
+        margin-bottom: 10%;
+
+
     }
 
     .card-line {
@@ -158,7 +177,7 @@
     }
 
     .short-cards {
-       
+
         background-color: #00E8FF;
     }
 
@@ -221,64 +240,80 @@
         left: 50%;
         padding: 0.1%;
     }
-    .short-card{
+
+    .short-card {
         min-height: 100%;
     }
-    .short-card2{
+
+    .short-card2 {
         min-height: 100%;
-        
+
     }
-    .short-card3{
+
+    .short-card3 {
         min-height: 100%;
     }
-    .glass{
+
+    .glass {
         width: 1%;
     }
-    .textCard-t{
+
+    .textCard-t {
         max-width: 10%;
     }
-    .subtext-cards{
+
+    .subtext-cards {
         opacity: 0%;
     }
-    .short-cards2{
+
+    .short-cards2 {
         background-color: white;
         max-width: 117px;
     }
-    .text-f{        
-        top:50%;
+
+    .text-f {
+        top: 50%;
         max-width: 40%;
     }
-    .subtext-f{
+
+    .subtext-f {
         opacity: 0%;
-        top:50%;
+        top: 50%;
     }
-    .number-two{
+
+    .number-two {
         display: flex;
     }
-    .textD2{
+
+    .textD2 {
         max-width: 40%;
         top: 19%;
         min-height: 10%;
         padding-bottom: 30%;
     }
-    .subtext-d2{
+
+    .subtext-d2 {
         opacity: 0%;
-        top:50%;
+        top: 50%;
     }
-    .btn-dive{
+
+    .btn-dive {
         min-width: 50%;
     }
+
     .sublimit1 {
         min-width: 10%;
         max-width: 10%;
         display: flex;
-        
+
     }
-    .background-benefits{
+
+    .background-benefits {
         opacity: 0%;
         width: 1%;
         height: 1%;
     }
+
     .btn-class {
         min-width: 80%;
         max-width: 10%;
@@ -287,111 +322,134 @@
         z-index: 1;
         font-size: 20px;
     }
-      
-   .title-aula{
-    width: 285px;
-   }
+
+    .title-aula {
+        width: 285px;
+    }
+
     .svg-card {
         opacity: 0;
         width: 1%;
     }
 
-    .btn-div{
-margin-top: 10px;
+    .btn-div {
+        margin-top: 10px;
 
     }
 
-    .btn-card{
+    .btn-card {
         background-color: #fffdfd;
-      width: 298px;
-      border-radius: 0px;
-      margin-top: -1px;
+        width: 298px;
+        border-radius: 0px;
+        margin-top: -1px;
     }
 
-    .card-grey{
-       width: 100%;
-       background-color: #00E8FF;
-       margin-left: -104px;
-       
+    .card-grey {
+        width: 100%;
+        background-color: #00E8FF;
+        margin-left: -104px;
+
     }
 
-    .card-blue{
+    .card-blue {
         opacity: 0;
     }
 
-  
 
-.display-row .form-group {
-    display: block; /* Faz com que as labels ocupem uma linha inteira */
-    margin-bottom: 10px; /* Espaçamento entre labels e inputs */
-    width: 100%; /* Ocupa toda a largura disponível */
-    padding: 5px; /* Adicione algum espaço interno para melhor aparência */
-    margin-bottom: 10px; /* Espaçamento entre inputs */
-    margin: 0 auto; /* Centralize o formulário horizontalmente */
-}
 
-.referencia{
-    max-width: 60%;
-}
-.curriculum{
-    top: 100%;
-    opacity: 0%;
-}
-.zero2{
-    display: flex;
-    max-width: 100%;
-    min-width: 100%;
-   
-}
-.zero22{
-    display: flex;
-    max-width: 60%;
-    min-width: 60%;
-    right: 20%;
-}
-  .card-aprender{
-    width: 1%;
-    opacity: 0%;
-  }
-  .aprender{
-  font-size: 1px;
-  opacity: 0%;
-  }
-  .zero4,.zero1,zero{
-    max-width: 60%;
-    min-width: 60%;
-  }
-  .card-align{
-    
-    left: 60%;
-  }
-  .btn-class-blue{
-    min-width: 80%;
+    .display-row .form-group {
+        display: block;
+        /* Faz com que as labels ocupem uma linha inteira */
+        margin-bottom: 10px;
+        /* Espaçamento entre labels e inputs */
+        width: 100%;
+        /* Ocupa toda a largura disponível */
+        padding: 5px;
+        /* Adicione algum espaço interno para melhor aparência */
+        margin-bottom: 10px;
+        /* Espaçamento entre inputs */
+        margin: 0 auto;
+        /* Centralize o formulário horizontalmente */
+    }
+
+    .referencia {
+        max-width: 60%;
+    }
+
+    .curriculum {
+        top: 100%;
+        opacity: 0%;
+    }
+
+    .zero2 {
+        display: flex;
+        max-width: 100%;
+        min-width: 100%;
+
+    }
+
+    .zero22 {
+        display: flex;
+        max-width: 60%;
+        min-width: 60%;
+        right: 20%;
+    }
+
+    .card-aprender {
+        width: 1%;
+        opacity: 0%;
+    }
+
+    .aprender {
+        font-size: 1px;
+        opacity: 0%;
+    }
+
+    .zero4,
+    .zero1,
+    zero {
+        max-width: 60%;
+        min-width: 60%;
+    }
+
+    .card-align {
+
+        left: 60%;
+    }
+
+    .btn-class-blue {
+        min-width: 80%;
         max-width: 10%;
         color: #000;
         font-weight: 600;
         z-index: 1;
-        font-size: 20px; 
+        font-size: 20px;
         left: 40%;
-  }
-  .b111{
-    max-width: 80%;
-    min-width: 80%;
-  }
- .column,.itens-three{
-opacity: 0%;
-width: 1%;
- }
- .itens-two-sub{
-    left: 100%;
- }
- .display-content{
-   padding-top: 80%;
- }
- .contact-us {
-    min-height: 100%;
-    padding-top: 100%;
- }
+    }
+
+    .b111 {
+        max-width: 80%;
+        min-width: 80%;
+    }
+
+    .column,
+    .itens-three {
+        opacity: 0%;
+        width: 1%;
+    }
+
+    .itens-two-sub {
+        left: 100%;
+    }
+
+    .display-content {
+        padding-top: 80%;
+    }
+
+    .contact-us {
+        min-height: 100%;
+        padding-top: 100%;
+    }
 }
 
 * {
@@ -1494,342 +1552,344 @@ h4 {
     margin-left: 0.9%;
     position: absolute;
 }
+
 @media screen and (max-width: 700px) {
-.title-salario {
-    text-align: center;
-    margin-top: 15%;
-    width: 50%;
-    margin-left: 25%;
+    .title-salario {
+        text-align: center;
+        margin-top: 15%;
+        width: 50%;
+        margin-left: 25%;
+    }
+
+    .section-card {
+        margin-top: 45%;
+    }
+
+    .h1-programador {
+        color: var(--pcv-gray, #E9E9E9);
+        font-family: Montserrat;
+        font-size: 23.302px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+        margin-top: -29.5%;
+        margin-left: 8%;
+    }
+
+    .first-salario {
+        color: var(--pcv-gray, #E9E9E9);
+        font-family: Montserrat;
+        font-size: 81.557px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        margin-left: 7%;
+        margin-top: -1%;
+    }
+
+    .mes {
+        color: var(--pcv-gray, #E9E9E9);
+        font-family: Montserrat;
+        font-size: 23.302px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+    }
+
+    .referencia {
+        color: rgba(233, 233, 233, 0.38);
+        font-family: Montserrat;
+        font-size: 17.476px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+        margin-top: -1%;
+        margin-left: 8%;
+    }
+
+    .section-card-two {
+        margin-top: 15%;
+    }
+
+    .h1-programador {
+        color: var(--pcv-gray, #E9E9E9);
+        font-family: Montserrat;
+        font-size: 23.302px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+        margin-top: -29.5%;
+        margin-left: 8%;
+    }
+
+    .first-salario {
+        color: var(--pcv-gray, #E9E9E9);
+        font-family: Montserrat;
+        font-size: 81.557px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        margin-left: 7%;
+        margin-top: -1%;
+    }
+
+    .mes {
+        color: var(--pcv-gray, #E9E9E9);
+        font-family: Montserrat;
+        font-size: 23.302px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+    }
+
+    .referencia {
+        color: rgba(233, 233, 233, 0.38);
+        font-family: Montserrat;
+        font-size: 17.476px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: normal;
+        margin-top: -1%;
+        margin-left: 8%;
+    }
+
+
+    .Salario {
+        background: var(--cyan-1, linear-gradient(201deg, #00E8FF 0%, #38BBC8 100%));
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        font-family: Montserrat;
+        font-size: 40px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 164.4%;
+    }
+
+
+
+    .carreiras {
+        color: var(--pcv-gray, #E9E9E9);
+        text-align: center;
+        font-family: Montserrat;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 164.4%;
+        width: 75%;
+        margin-left: 11%;
+        margin-top: 2%;
+    }
+
+    .card-white {
+        width: 612px;
+        height: 466px;
+        flex-shrink: 0;
+        border-radius: 36px;
+        background: #FFF;
+        margin-top: -55%;
+        margin-left: 90%;
+    }
+
+    .curriculum {
+        font-family: Montserrat;
+        font-size: 27.956px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        background: var(--cyan-1, linear-gradient(201deg, #00E8FF 0%, #38BBC8 100%));
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+        margin-top: -4%;
+        margin-left: 41%;
+        position: absolute;
+    }
+
+    .woman {
+        width: 83.351px;
+        height: 83.351px;
+        flex-shrink: 0;
+        border-radius: 66.681px;
+        background: url(<path-to-image>), lightgray 50% / cover no-repeat;
+        margin-left: 7%;
+        margin-top: 5%;
+    }
+
+    .nomer {
+        color: var(--pcv-black, #101010);
+        font-family: Montserrat;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        margin-left: 147px;
+        margin-top: -3%;
+        position: absolute;
+    }
+
+    .programadora {
+        color: var(--pcv-black, #101010);
+        font-family: Montserrat;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        margin-left: 24%;
+        margin-top: -6%;
+    }
+
+    .card-div {
+        width: 156px;
+        height: 45px;
+        flex-shrink: 0;
+        border-radius: 7px;
+        background: var(--cyan-1, linear-gradient(201deg, #00E8FF 0%, #38BBC8 100%));
+        margin-left: 61%;
+        margin-top: -10%;
+    }
+
+    .salario-woman {
+        color: var(--pcv-black, #101010);
+        font-family: Montserrat;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        align-items: center;
+        text-align: center;
+        margin-left: 20.3%;
+        margin-top: -1.7%;
+        position: absolute;
+    }
+
+    .habilidades {
+        color: var(--pcv-black, #101010);
+        font-family: Montserrat;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: normal;
+        margin-top: 4%;
+        margin-left: 2%;
+        position: absolute;
+    }
+
+    .line {
+        width: 535px;
+        height: 1px;
+        background: rgba(0, 0, 0, 0.17);
+        margin-top: 8%;
+        margin-left: 6%;
+    }
+
+    .image-one {
+        width: 10%;
+        height: 10%;
+        margin-left: 3%;
+    }
+
+    .manual-text {
+        color: var(--pcv-black, #101010);
+        font-family: Montserrat;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+
+    }
+
+    .div-front {
+        margin-top: 6.7%;
+        margin-left: 14%;
+    }
+
+    .div-back {
+        margin-top: 3%;
+        margin-left: 14%;
+    }
+
+    .div-mobile {
+        margin-top: 3.7%;
+        margin-left: 14%;
+    }
+
+    .div-api {
+        margin-top: 3.3%;
+        margin-left: 14%;
+    }
+
+    .image-two {
+        width: 10%;
+        height: 10%;
+        margin-left: 50%;
+        margin-top: -27.5%;
+    }
+
+    .div-react {
+        margin-top: -5.2%;
+        margin-left: 59%;
+    }
+
+    .div-python {
+        margin-top: 3%;
+        margin-left: 59%;
+    }
+
+    .div-database {
+        margin-top: 3.7%;
+        margin-left: 59%;
+    }
+
+    .div-ciber {
+        margin-top: 3.3%;
+        margin-left: 59%;
+    }
+
+
+    .circle-one {
+        margin-top: 80px;
+        margin-left: 25%;
+    }
+
+    .circle-two {
+        margin-top: 10%;
+        margin-left: 5%;
+
+    }
+
+    .circle-three {
+        margin-top: -12%;
+        margin-left: -1.5%;
+    }
+
+    .circle-for {
+        margin-top: 10%;
+        margin-left: 90%;
+    }
+
+    .circle-line-one {
+        margin-top: -22%;
+        margin-left: 11%;
+        position: absolute;
+    }
+
+    .circle-line-two {
+        margin-top: -17%;
+        margin-left: -1.5%;
+    }
+
+    .circle-line-three {
+        margin-top: -12%;
+        margin-left: -1.5%;
+    }
+
+    .circle-line-for {
+        margin-top: -7%;
+        margin-left: -1.5%;
+    }
 }
 
-.section-card {
-    margin-top: 45%;
-}
-
-.h1-programador {
-    color: var(--pcv-gray, #E9E9E9);
-    font-family: Montserrat;
-    font-size: 23.302px;
-    font-style: normal;
-    font-weight: 500;
-    line-height: normal;
-    margin-top: -29.5%;
-    margin-left: 8%;
-}
-
-.first-salario {
-    color: var(--pcv-gray, #E9E9E9);
-    font-family: Montserrat;
-    font-size: 81.557px;
-    font-style: normal;
-    font-weight: 700;
-    line-height: normal;
-    margin-left: 7%;
-    margin-top: -1%;
-}
-
-.mes {
-    color: var(--pcv-gray, #E9E9E9);
-    font-family: Montserrat;
-    font-size: 23.302px;
-    font-style: normal;
-    font-weight: 500;
-    line-height: normal;
-}
-
-.referencia {
-    color: rgba(233, 233, 233, 0.38);
-    font-family: Montserrat;
-    font-size: 17.476px;
-    font-style: normal;
-    font-weight: 500;
-    line-height: normal;
-    margin-top: -1%;
-    margin-left: 8%;
-}
-
-.section-card-two {
-    margin-top: 15%;
-}
-
-.h1-programador {
-    color: var(--pcv-gray, #E9E9E9);
-    font-family: Montserrat;
-    font-size: 23.302px;
-    font-style: normal;
-    font-weight: 500;
-    line-height: normal;
-    margin-top: -29.5%;
-    margin-left: 8%;
-}
-
-.first-salario {
-    color: var(--pcv-gray, #E9E9E9);
-    font-family: Montserrat;
-    font-size: 81.557px;
-    font-style: normal;
-    font-weight: 700;
-    line-height: normal;
-    margin-left: 7%;
-    margin-top: -1%;
-}
-
-.mes {
-    color: var(--pcv-gray, #E9E9E9);
-    font-family: Montserrat;
-    font-size: 23.302px;
-    font-style: normal;
-    font-weight: 500;
-    line-height: normal;
-}
-
-.referencia {
-    color: rgba(233, 233, 233, 0.38);
-    font-family: Montserrat;
-    font-size: 17.476px;
-    font-style: normal;
-    font-weight: 500;
-    line-height: normal;
-    margin-top: -1%;
-    margin-left: 8%;
-}
-
-
-.Salario {
-    background: var(--cyan-1, linear-gradient(201deg, #00E8FF 0%, #38BBC8 100%));
-    background-clip: text;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    font-family: Montserrat;
-    font-size: 40px;
-    font-style: normal;
-    font-weight: 900;
-    line-height: 164.4%;
-}
-
-
-
-.carreiras {
-    color: var(--pcv-gray, #E9E9E9);
-    text-align: center;
-    font-family: Montserrat;
-    font-size: 20px;
-    font-style: normal;
-    font-weight: 500;
-    line-height: 164.4%;
-    width: 75%;
-    margin-left: 11%;
-    margin-top: 2%;
-}
-
-.card-white {
-    width: 612px;
-    height: 466px;
-    flex-shrink: 0;
-    border-radius: 36px;
-    background: #FFF;
-    margin-top: -55%;
-    margin-left: 90%;
-}
-
-.curriculum {
-    font-family: Montserrat;
-    font-size: 27.956px;
-    font-style: normal;
-    font-weight: 700;
-    line-height: normal;
-    background: var(--cyan-1, linear-gradient(201deg, #00E8FF 0%, #38BBC8 100%));
-    background-clip: text;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    margin-top: -4%;
-    margin-left: 41%;
-    position: absolute;
-}
-
-.woman {
-    width: 83.351px;
-    height: 83.351px;
-    flex-shrink: 0;
-    border-radius: 66.681px;
-    background: url(<path-to-image>), lightgray 50% / cover no-repeat;
-    margin-left: 7%;
-    margin-top: 5%;
-}
-
-.nomer {
-    color: var(--pcv-black, #101010);
-    font-family: Montserrat;
-    font-size: 20px;
-    font-style: normal;
-    font-weight: 700;
-    line-height: normal;
-    margin-left: 147px;
-    margin-top: -3%;
-    position: absolute;
-}
-
-.programadora {
-    color: var(--pcv-black, #101010);
-    font-family: Montserrat;
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: normal;
-    margin-left: 24%;
-    margin-top: -6%;
-}
-
-.card-div {
-    width: 156px;
-    height: 45px;
-    flex-shrink: 0;
-    border-radius: 7px;
-    background: var(--cyan-1, linear-gradient(201deg, #00E8FF 0%, #38BBC8 100%));
-    margin-left: 61%;
-    margin-top: -10%;
-}
-
-.salario-woman {
-    color: var(--pcv-black, #101010);
-    font-family: Montserrat;
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 700;
-    line-height: normal;
-    align-items: center;
-    text-align: center;
-    margin-left: 20.3%;
-    margin-top: -1.7%;
-    position: absolute;
-}
-
-.habilidades {
-    color: var(--pcv-black, #101010);
-    font-family: Montserrat;
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 700;
-    line-height: normal;
-    margin-top: 4%;
-    margin-left: 2%;
-    position: absolute;
-}
-
-.line {
-    width: 535px;
-    height: 1px;
-    background: rgba(0, 0, 0, 0.17);
-    margin-top: 8%;
-    margin-left: 6%;
-}
-
-.image-one {
-    width: 10%;
-    height: 10%;
-    margin-left: 3%;
-}
-
-.manual-text {
-    color: var(--pcv-black, #101010);
-    font-family: Montserrat;
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: normal;
-
-}
-
-.div-front {
-    margin-top: 6.7%;
-    margin-left: 14%;
-}
-
-.div-back {
-    margin-top: 3%;
-    margin-left: 14%;
-}
-
-.div-mobile {
-    margin-top: 3.7%;
-    margin-left: 14%;
-}
-
-.div-api {
-    margin-top: 3.3%;
-    margin-left: 14%;
-}
-
-.image-two {
-    width: 10%;
-    height: 10%;
-    margin-left: 50%;
-    margin-top: -27.5%;
-}
-
-.div-react {
-    margin-top: -5.2%;
-    margin-left: 59%;
-}
-
-.div-python {
-    margin-top: 3%;
-    margin-left: 59%;
-}
-
-.div-database {
-    margin-top: 3.7%;
-    margin-left: 59%;
-}
-
-.div-ciber {
-    margin-top: 3.3%;
-    margin-left: 59%;
-}
-
-
-.circle-one {
-    margin-top: 80px;
-    margin-left: 25%;
-}
-
-.circle-two {
-    margin-top: 10%;
-    margin-left: 5%;
-
-}
-
-.circle-three {
-    margin-top: -12%;
-    margin-left: -1.5%;
-}
-
-.circle-for {
-    margin-top: 10%;
-    margin-left: 90%;
-}
-
-.circle-line-one {
-    margin-top: -22%;
-    margin-left: 11%;
-    position: absolute;
-}
-
-.circle-line-two {
-    margin-top: -17%;
-    margin-left: -1.5%;
-}
-
-.circle-line-three {
-    margin-top: -12%;
-    margin-left: -1.5%;
-}
-
-.circle-line-for {
-    margin-top: -7%;
-    margin-left: -1.5%;
-}
-}
 .text-why {
     color: var(--cyan-claro, #00E8FF);
     text-align: center;
@@ -3352,7 +3412,7 @@ h4 {
     justify-content: space-between;
     flex-wrap: wrap;
     margin-bottom: 5%;
-   
+
 }
 
 .carde {
@@ -3365,7 +3425,7 @@ h4 {
     align-items: center;
     display: flex;
     flex-direction: column;
-    
+
 }
 
 .text-card {
@@ -6525,6 +6585,7 @@ h4 {
 .ask-questions img:hover {
     animation: pulsate 2s infinite;
 }
+
 .gui {
     display: flex;
     top: -30%;
@@ -6540,6 +6601,42 @@ h4 {
     font-size: 15px;
 }
 
-.principal-logo{
+.principal-logo {
     width: 133px;
-        }
+}
+
+@media screen and (max-width: 600px) {
+
+
+    .logo {
+        margin-top: -150px;
+    }
+
+    .principal-logo {
+        margin-left: 5%;
+    }
+
+    .escola {
+        margin-left: 5%;
+    }
+
+    .itens-two {
+        margin-left: -47%;
+    }
+
+    .itens-two-sub {
+        margin-left: -22%;
+
+        margin-top: 61px;
+    }
+
+    .line-footer {
+        margin-top: -232px;
+    }
+
+    .direitos {
+        width: 96%;
+        margin-top: -172px;
+        margin-left: 14px;
+    }
+}
